@@ -1,0 +1,7 @@
+[package]
+name = "minimal-rust"
+version = "0.0.1"
+authors = ["chris west <c@xvxx.io>"]
+edition = "2018"
+
+[dependencies]

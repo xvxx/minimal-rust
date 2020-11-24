@@ -1,0 +1,13 @@
+pico-args CLI Args Parser https://github.com/RazrFalcon/pico-args
+nanorand Random Numbers https://github.com/aspenluxxxy/nanorand-rs
+sval De/Serializer https://github.com/sval-rs/sval
+json JSON Parser https://github.com/maciejhirsz/json-rust
+tinyjson JSON Parser/Generator https://github.com/rhysd/tinyjson
+minreq HTTP Client https://github.com/neonmoe/minreq
+httparse HTTP Parser https://github.com/seanmonstar/httparse
+percent-encoding Percent Encoding https://github.com/servo/rust-url/tree/percent_encoding
+lazy_static Runtime Globals https://github.com/rust-lang-nursery/lazy-static.rs
+anyhow Error Trait https://github.com/dtolnay/anyhow
+ryu Float to String https://github.com/dtolnay/ryu
+bytes Bytes Utility https://github.com/tokio-rs/bytes
+memchr Search Bytes https://github.com/BurntSushi/rust-memchr
