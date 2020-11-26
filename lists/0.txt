@@ -1,4 +1,5 @@
 pico-args CLI Args Parser https://github.com/RazrFalcon/pico-args
+seahorse CLI Framework https://github.com/ksk001100/seahorse
 nanorand Random Numbers https://github.com/aspenluxxxy/nanorand-rs
 sval De/Serializer https://github.com/sval-rs/sval
 json JSON Parser https://github.com/maciejhirsz/json-rust
