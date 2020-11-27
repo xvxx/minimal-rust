@@ -45,6 +45,7 @@ For information on how to reduce your Rust binary's total size:
 | [`csv-core`] | CSV Reader/Writer | 1 | [📦](https://crates.io/crates/csv-core) • [📚](https://docs.rs/csv-core) • [🏠](https://github.com/BurntSushi/rust-csv) |
 | [`quick-xml`] | XML Parser/Generator | 1 | [📦](https://crates.io/crates/quick-xml) • [📚](https://docs.rs/quick-xml) • [🏠](https://github.com/tafia/quick-xml) |
 | [`nanoserde`] | De/Serializer | 1 | [📦](https://crates.io/crates/nanoserde) • [📚](https://docs.rs/nanoserde) • [🏠](https://github.com/not-fl3/nanoserde) |
+| [`popol`] | Non-Blocking IO | 1 | [📦](https://crates.io/crates/popol) • [📚](https://docs.rs/popol) • [🏠](https://github.com/cloudhead/popol) |
 | [`rs-complete`] | Tab Completion | 1 | [📦](https://crates.io/crates/rs-complete) • [📚](https://docs.rs/rs-complete) • [🏠](https://github.com/liquidityc/rs-complete) |
 | [`libc-strftime`] | Time Formatter | 1 | [📦](https://crates.io/crates/libc-strftime) • [📚](https://docs.rs/libc-strftime) • [🏠](https://github.com/cecton/libc-strftime) |
 | [`bstr`] | Byte Strings | 1 | [📦](https://crates.io/crates/bstr) • [📚](https://docs.rs/bstr) • [🏠](https://github.com/BurntSushi/bstr) |
@@ -81,6 +82,7 @@ Specifically running `make count CRATE=<name>` from the root of this repo._
 [`csv-core`]: https://crates.io/crates/csv-core
 [`quick-xml`]: https://crates.io/crates/quick-xml
 [`nanoserde`]: https://crates.io/crates/nanoserde
+[`popol`]: https://crates.io/crates/popol
 [`rs-complete`]: https://crates.io/crates/rs-complete
 [`libc-strftime`]: https://crates.io/crates/libc-strftime
 [`bstr`]: https://crates.io/crates/bstr

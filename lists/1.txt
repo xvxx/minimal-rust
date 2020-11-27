@@ -1,6 +1,7 @@
 csv-core CSV Reader/Writer https://github.com/BurntSushi/rust-csv
 quick-xml XML Parser/Generator https://github.com/tafia/quick-xml
 nanoserde De/Serializer https://github.com/not-fl3/nanoserde
+popol Non-Blocking IO https://github.com/cloudhead/popol
 rs-complete Tab Completion https://github.com/liquidityc/rs-complete
 libc-strftime Time Formatter https://github.com/cecton/libc-strftime
 bstr Byte Strings https://github.com/BurntSushi/bstr
