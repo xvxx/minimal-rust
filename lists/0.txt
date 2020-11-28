@@ -4,6 +4,7 @@ nanorand Random Numbers https://github.com/aspenluxxxy/nanorand-rs
 sval De/Serializer https://github.com/sval-rs/sval
 json JSON Parser https://github.com/maciejhirsz/json-rust
 tinyjson JSON Parser/Generator https://github.com/rhysd/tinyjson
+tini INI Parser https://github.com/pinecrew/tini
 minreq HTTP Client https://github.com/neonmoe/minreq
 httparse HTTP Parser https://github.com/seanmonstar/httparse
 percent-encoding Percent Encoding https://github.com/servo/rust-url/tree/percent_encoding

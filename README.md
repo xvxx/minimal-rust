@@ -29,6 +29,7 @@ For information on how to reduce your Rust binary's total size:
 | [`sval`] | De/Serializer | 0 | [📦](https://crates.io/crates/sval) • [📚](https://docs.rs/sval) • [🏠](https://github.com/sval-rs/sval) |
 | [`json`] | JSON Parser | 0 | [📦](https://crates.io/crates/json) • [📚](https://docs.rs/json) • [🏠](https://github.com/maciejhirsz/json-rust) |
 | [`tinyjson`] | JSON Parser/Generator | 0 | [📦](https://crates.io/crates/tinyjson) • [📚](https://docs.rs/tinyjson) • [🏠](https://github.com/rhysd/tinyjson) |
+| [`tini`] | INI Parser | 0 | [📦](https://crates.io/crates/tini) • [📚](https://docs.rs/tini) • [🏠](https://github.com/pinecrew/tini) |
 | [`minreq`] | HTTP Client | 0 | [📦](https://crates.io/crates/minreq) • [📚](https://docs.rs/minreq) • [🏠](https://github.com/neonmoe/minreq) |
 | [`httparse`] | HTTP Parser | 0 | [📦](https://crates.io/crates/httparse) • [📚](https://docs.rs/httparse) • [🏠](https://github.com/seanmonstar/httparse) |
 | [`percent-encoding`] | Percent Encoding | 0 | [📦](https://crates.io/crates/percent-encoding) • [📚](https://docs.rs/percent-encoding) • [🏠](https://github.com/servo/rust-url/tree/percent_encoding) |
@@ -71,6 +72,7 @@ Specifically running `make count CRATE=<name>` from the root of this repo._
 [`sval`]: https://crates.io/crates/sval
 [`json`]: https://crates.io/crates/json
 [`tinyjson`]: https://crates.io/crates/tinyjson
+[`tini`]: https://crates.io/crates/tini
 [`minreq`]: https://crates.io/crates/minreq
 [`httparse`]: https://crates.io/crates/httparse
 [`percent-encoding`]: https://crates.io/crates/percent-encoding
