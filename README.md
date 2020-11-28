@@ -24,6 +24,7 @@ For information on how to reduce your Rust binary's total size:
 | Crate | Desc | Dependencies† | Links |
 | --- | --- | --- | --- |
 | [`pico-args`] | CLI Args Parser | 0 | [📦](https://crates.io/crates/pico-args) • [📚](https://docs.rs/pico-args) • [🏠](https://github.com/RazrFalcon/pico-args) |
+| [`climake`] | CLI Args Parser | 0 | [📦](https://crates.io/crates/climake) • [📚](https://docs.rs/climake) • [🏠](https://github.com/rust-cli/climake) |
 | [`seahorse`] | CLI Framework | 0 | [📦](https://crates.io/crates/seahorse) • [📚](https://docs.rs/seahorse) • [🏠](https://github.com/ksk001100/seahorse) |
 | [`nanorand`] | Random Numbers | 0 | [📦](https://crates.io/crates/nanorand) • [📚](https://docs.rs/nanorand) • [🏠](https://github.com/aspenluxxxy/nanorand-rs) |
 | [`sval`] | De/Serializer | 0 | [📦](https://crates.io/crates/sval) • [📚](https://docs.rs/sval) • [🏠](https://github.com/sval-rs/sval) |
@@ -67,6 +68,7 @@ project with the crate included with `default-features = false`.
 Specifically running `make count CRATE=<name>` from the root of this repo._
 
 [`pico-args`]: https://crates.io/crates/pico-args
+[`climake`]: https://crates.io/crates/climake
 [`seahorse`]: https://crates.io/crates/seahorse
 [`nanorand`]: https://crates.io/crates/nanorand
 [`sval`]: https://crates.io/crates/sval
